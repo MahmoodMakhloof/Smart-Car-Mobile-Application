@@ -49,15 +49,15 @@ As the **Lead Developer & System Architect**, I was responsible for:
 
 ## 📱 App Screenshots
 
-| Control Panel | Vehicle Tracking | Car Sharing |
+| Authentication | Vehicle Tracking | Car Connect |
 |---------------|------------------|-------------|
 | ![screen1](https://user-images.githubusercontent.com/73743979/181606946-3e35fed3-80a8-47c1-814a-e4e3def6fd63.png) | ![screen2](https://user-images.githubusercontent.com/73743979/181607192-0993e210-5079-4892-af78-003c13414f9d.png) | ![screen3](https://user-images.githubusercontent.com/73743979/181607844-f2d09c42-a2f6-46bc-88dc-603eb344506b.png) |
 
-| Notifications | Admin Control | More UI |
+| Car Control | Car Sharing | Notification |
 |---------------|----------------|-------------|
 | ![screen4](https://user-images.githubusercontent.com/73743979/181608287-d4d030f8-1557-45ce-bc77-fb5d39fdd31d.png) | ![screen5](https://user-images.githubusercontent.com/73743979/181608586-061b7946-59c9-45c5-b586-b02cd29514b6.png) | ![screen6](https://user-images.githubusercontent.com/73743979/181608903-6aa6df4f-2609-4aae-aad0-b087ad9833f4.png) |
 
-| Dashboard |
+| Profile |
 |-----------|
 | ![screen7](https://user-images.githubusercontent.com/73743979/181609172-9c939c2a-e373-4771-baaf-811a340fafb6.png) |
 
